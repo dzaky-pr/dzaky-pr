@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Back End Dev.
 - 💬 Ask me about Front End Dev.
 - 📫 How to reach me: dzaky.pr.mulyono97@gmail.com
-- 😄 Pronouns: Jeki
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love cats
 
 <!--
