@@ -1,0 +1,232 @@
+* {
+  color: white;
+}
+.myFirstNav .navbar {
+  display: block;
+}
+
+.myFirstNav a {
+  color: white;
+  font-weight: bold;
+}
+
+.myFirstNav a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+.myFirstNav.sticky {
+  background-color: #36454f;
+  display: none;
+}
+
+.myFirstNav.sticky a {
+  color: white;
+  font-weight: bold;
+}
+
+.myFirstNav.sticky a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+.myIntro img {
+  height: 150px;
+  width: 150px;
+}
+
+.myIntro .customContainer .basicBlue a {
+  font-weight: bold;
+  color: #3469a8;
+  text-decoration: none;
+}
+
+.myIntro .customContainer .boldOnlyWhite a {
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.myIntro .customContainer .basicGrey {
+  color: #a0a7af;
+}
+
+.nav-2 {
+  position: relative;
+  height: 1px;
+}
+
+.nav-2::before {
+  position: absolute;
+}
+
+.nav-2::after {
+  position: absolute;
+}
+
+.nav-2-sticky {
+  display: none;
+}
+
+.dzaky-footer a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.dzaky-footer a:hover {
+  color: #3469a8;
+  transition: 0.3s ease-in-out;
+}
+
+.dzaky-med a {
+  text-decoration: none;
+  color: white;
+  font-weight: normal;
+}
+
+.dzaky-med a:hover {
+  color: #3469a8;
+  transition: 0.3s ease-in-out;
+}
+
+.khusus {
+  color: white;
+}
+
+/*nav 2 site click*/
+#project-dzaky {
+  display: block;
+}
+
+#academic-dzaky {
+  display: none;
+}
+
+#competition-dzaky {
+  display: none;
+}
+
+#community-dzaky {
+  display: none;
+}
+
+input[type='checkbox'] {
+  -webkit-appearance: none;
+  visibility: hidden;
+  display: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.cursor:hover {
+  color: #3469a8;
+  transition: 0.3s ease-in-out;
+}
+
+/* dark white mode under construc!*/
+/* .check {
+  position: relative;
+  display: block;
+  width: 65px;
+  height: 35px;
+  background-color: #32363a;
+  cursor: pointer;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: ease-in 0.5s;
+}
+
+input[type='checkbox']:checked ~ .check {
+  background: #fff;
+}
+
+.check:before {
+  content: '';
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  background: #fff;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+input[type='checkbox']:checked ~ .check:before {
+  transform: translateX(-50px);
+}
+
+.check:after {
+  content: '';
+  position: absolute;
+  top: 6px;
+  right: 6.5px;
+  background: #32363a;
+  width: 23.5px;
+  height: 23.5px;
+  border-radius: 50%;
+  transition: 0.5s;
+  transform: translateX(50px);
+}
+
+input[type='checkbox']:checked ~ .check:after {
+  transform: translateX(0px);
+} */
+
+/* responsive structur*/
+.myIntro .customContainer {
+  width: 100%;
+  padding-right: 7vw;
+  padding-left: 7vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.con-check {
+  position: absolute;
+  right: 3%;
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media all and (min-width: 576px) {
+  .customContainer {
+    max-width: 540px;
+  }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+  .customContainer {
+    max-width: 720px;
+  }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+  .customContainer {
+    max-width: 960px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+  .customContainer {
+    max-width: 1140px;
+  }
+}
+
+/*custom break point*/
+@media (min-width: 1600px) {
+  .customContainer {
+    max-width: 1570px;
+  }
+}
+
+@media (min-width: 1800px) {
+  .customContainer {
+    max-width: 1770px;
+  }
+}
