@@ -36,6 +36,10 @@ function community() {
   document.getElementById('community-dzaky').style.display = 'block';
 }
 
+function underMain(){
+  alert ('Yayy!, what do you think about my new design?');
+}
+
 // $(document).ready(function(){
 //     $(window).scroll(function(){
 //         // sticky navbar on scroll script
