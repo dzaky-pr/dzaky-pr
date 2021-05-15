@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying on SMAN 68 Jakarta
+- 🔭 I’m currently studying at SMAN 68 Jakarta
 - 🌱 I’m currently learning Front End Dev.
 - 👯 I’m looking to collaborate on my start up
 - 🤔 I’m looking for help with Back End Dev.
