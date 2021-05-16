@@ -202,31 +202,47 @@ input[type='checkbox']:checked ~ .check:after {
   .customContainer {
     max-width: 720px;
   }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
 }
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
   .customContainer {
-    max-width: 960px;
+    max-width: 1140px;
+  }
+
+  .container {
+    justify-content: center;
   }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   .customContainer {
     max-width: 1140px;
   }
-}
+} */
 
 /*custom break point*/
 @media (min-width: 1600px) {
   .customContainer {
-    max-width: 1570px;
+    max-width: 1300px;
   }
 }
 
-@media (min-width: 1800px) {
+@media (min-width: 3000px) {
   .customContainer {
-    max-width: 1770px;
+    max-width: 1300px;
   }
+
+  /* @media (max-width: 3000px) {
+    .customContainer {
+      max-width: 1300px;
+    } */
 }
