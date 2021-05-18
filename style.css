@@ -5,6 +5,10 @@
   display: block;
 }
 
+body {
+  background-color: #32363a !important;
+}
+
 .myFirstNav a {
   color: white;
   font-weight: bold;
