@@ -5,10 +5,6 @@
   display: block;
 }
 
-body {
-  background-color: #32363a !important;
-}
-
 .myFirstNav a {
   color: white;
   font-weight: bold;
@@ -125,6 +121,10 @@ input[type='checkbox'] {
   cursor: pointer;
 }
 
+.cursor:active {
+  font-weight: bold;
+}
+
 .cursor:hover {
   color: #3469a8;
   transition: 0.3s ease-in-out;
@@ -198,6 +198,12 @@ input[type='checkbox']:checked ~ .check:after {
 @media all and (min-width: 576px) {
   .customContainer {
     max-width: 540px;
+  }
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
   }
 }
 
