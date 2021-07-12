@@ -9,35 +9,38 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="shortcut icon" href="assets/favicon.ico" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous" />
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
     <title>Dzaky Purnomo Rifa'i</title>
   </head>
-  <div class="preloader-container">
+  <body style="background-color: #32363a">
+    <div class="preloader-container">
       <div class="spinner"></div>
       <p>Memuat halaman portofolio, silahkan ditunggu :)</p>
     </div>
-  <body style="background-color: #32363a">
-    <header class="myFirstNav">
+    <header style="display: none" class="myFirstNav">
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">Dzaky Rifai.</a>
         </div>
       </nav>
     </header>
-    <div class="myIntro">
+    <div style="display: none" class="myIntro">
       <div class="customContainer">
-        <img src="assets/memoji.png" class="float-start" alt="memoji-dzaky" /> <br /><br />
-        <h1>
-          <span class="basicGrey">Hello everyone!<br />I’m </span>Dzaky Rifa’i<span class="basicGrey">.</span>
-        </h1>
-        <br />
-        Currently, I’m a Student at <span class="basicBlue"><a href="https://sma68-jkt.sch.id/" target="_blank">SMAN 68 Jakarta</a></span
-        >.<br /><br />
-        Code, music, and mountain climb are my passion. <br />
-        Mostly likes Frontend Web Dev, UI/UX, and a little bit trying to learn Backend Web Dev too (with PHP)...😅 <br />
-        For now, i'm learning some programming languages like javaScript, C++, PHP, and Python. And if you want to see my resume, <span class="boldOnlyWhite"><a href="#" target="_blank">click here</a></span
-        >.
+        <div>
+          <!-- introduction -->
+          <img src="assets/memoji.png" class="float-start" alt="memoji-dzaky" /> <br /><br />
+          <h1>
+            <span class="basicGrey">Hello everyone!<br />I’m </span>Dzaky Rifa’i<span class="basicGrey">.</span>
+          </h1>
+          <br />
+          Currently, I’m a Student at <span class="basicBlue"><a href="https://sma68-jkt.sch.id/" target="_blank">SMAN 68 Jakarta</a></span
+          >.<br /><br />
+          Code, music, and mountain climb is my passion. <br />
+          Mostly likes Frontend Web Dev, UI/UX, and a little bit trying to learn Backend Web Dev too...😅 <br />
+          For now, i'm learning some programing languages like javaScript, C++, and Python. And if you want to see my resume, <span class="boldOnlyWhite"><a href="#" target="_blank">click here</a></span>
+        </div>
         <div class="nav-2">
+          <!-- Second Nav -->
           <hr />
           <div class="px-5 mx-5 d-flex flex-row bd-highlight justify-content-evenly">
             <div onclick="project()" class="bd-highlight cursor">💼 Project</div>
@@ -47,6 +50,7 @@
           </div>
         </div>
         <div class="mt-4 pt-1">
+          <!-- Main Project -->
           <div id="project-dzaky" class="container">
             <div class="row justify-content-between mt-4 pt-3">
               <div class="card bg-dark shadow p-3 rounded" style="width: 18rem">
@@ -93,9 +97,7 @@
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="row justify-content-between mt-4 pt-3">
-              <div class="card bg-dark shadow p-3 rounded" style="width: 18rem">
+              <div class="card bg-dark shadow p-3 rounded mt-4" style="width: 18rem">
                 <img src="assets/project4.png" class="card-img-top mx-auto img-thumbnail mt-4 mb-4" alt="project4" />
                 <div class="card-body mx-auto">
                   <div>
@@ -110,6 +112,40 @@
                   </div>
                 </div>
               </div>
+              <!-- <div class="card bg-dark shadow p-3 rounded" style="width: 18rem">
+                <img src="#" class="card-img-top mx-auto img-thumbnail mt-4 mb-4" alt="project4" />
+                <div class="card-body mx-auto">
+                  <div>
+                    <h4 class="card-title">Coming Soon! Coming Soon!</h4>
+                    <p class="card-text">Hmm..</p>
+                    <br />
+                  </div>
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <div class="d-grid">
+                    <a target="_blank" href="#" class="btn btn-secondary">Visit website</a>
+                  </div>
+                </div>
+              </div> -->
+              <!-- <div class="card bg-dark shadow p-3 rounded" style="width: 18rem">
+                <img src="#" class="card-img-top mx-auto img-thumbnail mt-4 mb-4" alt="project4" />
+                <div class="card-body mx-auto">
+                  <div>
+                    <h4 class="card-title">Coming Soon! Coming Soon!</h4>
+                    <p class="card-text">Hmm..</p>
+                    <br />
+                  </div>
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <div class="d-grid">
+                    <a target="_blank" href="#" class="btn btn-secondary">Visit website</a>
+                  </div>
+                </div>
+              </div> -->
             </div>
           </div>
           <div id="academic-dzaky" class="container">
@@ -172,7 +208,7 @@
                 <div class="card-body mx-auto">
                   <div>
                     <h4 class="card-title">Markoding with Unicef</h4>
-                    <p class="card-text">Build a mobile application for digital innovation from scholarship bootcamp.</p>
+                    <p class="card-text">Build mobile application for digital innovation from free boot camp.</p>
                     <br />
                   </div>
                   <br />
@@ -280,13 +316,22 @@
         </div>
       </div>
     </div>
-    <hr class="khusus mt-5" />
-    <footer class="mt-4">
-      <div class="px-5 mx-5 d-flex flex-row bd-highlight justify-content-md-evenly">
-        <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://www.linkedin.com/in/dzakyrifai/">Linkedin</a></div>
-        <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://www.instagram.com/dzaky.rifai/">Instagram</a></div>
-        <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://github.com/dzaky-pr/">Github</a></div>
-        <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://twitter.com/dzaky_rifai">Twitter</a></div>
+    <hr style="display: none" class="khusus mt-5" />
+    <footer style="display: none" class="mt-4 ini-footer">
+      <!--social media-->
+      <div class="px-5 mx-5 d-flex flex-row justify-content-md-evenly">
+        <div class="col-xs-4 footer-soc">
+          <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://www.linkedin.com/in/dzakyrifai/">Linkedin</a></div>
+        </div>
+        <div class="col-xs-4 footer-soc">
+          <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://www.instagram.com/dzaky.rifai/">Instagram</a></div>
+        </div>
+        <div class="col-xs-4 footer-soc">
+          <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://github.com/dzaky-pr/">Github</a></div>
+        </div>
+        <div class="col-xs-4 footer-soc">
+          <div class="bd-highlight cursor dzaky-med"><a target="_blank" href="https://twitter.com/dzaky_rifai">Twitter</a></div>
+        </div>
       </div>
       <br />
       <div class="text-center fw-light small my-2">

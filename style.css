@@ -32,6 +32,7 @@
   }
 }
 
+/* Nav */
 .myFirstNav .navbar {
   display: block;
 }
@@ -233,8 +234,6 @@ input[type='checkbox']:checked ~ .check:after {
   .container {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: center;
   }
 }
 
@@ -247,8 +246,6 @@ input[type='checkbox']:checked ~ .check:after {
   .container {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: center;
   }
 }
 
@@ -257,18 +254,14 @@ input[type='checkbox']:checked ~ .check:after {
   .customContainer {
     max-width: 1140px;
   }
-
-  .container {
-    justify-content: center;
-  }
 }
 
 /* Extra large devices (large desktops, 1200px and up)*/
-/* @media (min-width: 1200px) {
+@media (min-width: 1200px) {
   .customContainer {
     max-width: 1140px;
   }
-} */
+}
 
 /*custom break point*/
 @media (min-width: 1600px) {
@@ -282,8 +275,9 @@ input[type='checkbox']:checked ~ .check:after {
     max-width: 1300px;
   }
 
-  /* @media (max-width: 3000px) {
+  @media (max-width: 3000px) {
     .customContainer {
       max-width: 1300px;
-    } */
+    }
+  }
 }
