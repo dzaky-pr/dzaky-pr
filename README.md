@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dzaky_rifai" target="blank"><img src="https://img.shields.io/twitter/follow/dzaky_rifai?logo=twitter&style=for-the-badge" alt="dzaky_rifai" /></a> </p>
 
+
 - 🔭 I’m currently working on [Tangankedua](soon!)
 
 - 🌱 I’m currently learning **Front End Dev. and UI/UX Design System**
@@ -22,10 +23,6 @@
 - 📫 How to reach me **dzakyrifai06@gmail.com**
 
 - ⚡ Fun fact **I love cats hehe**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
