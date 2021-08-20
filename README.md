@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzaky-pr&label=Profile%20views&color=0e75b6&style=flat" alt="dzaky-pr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzaky-pr" alt="dzaky-pr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dzaky_rifai" target="blank"><img src="https://img.shields.io/twitter/follow/dzaky_rifai?logo=twitter&style=for-the-badge" alt="dzaky_rifai" /></a> </p>
 
 - 🔭 I’m currently working on [Tangankedua](soon!)
