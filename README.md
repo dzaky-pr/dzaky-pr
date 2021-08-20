@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dzaky-pr&show_icons=true&theme=tokyonight" alt="dzaky-pr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzaky-pr&show_icons=true&locale=en" alt="dzaky-pr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="dzaky-pr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzaky-pr&" alt="dzaky-pr" /></p>
