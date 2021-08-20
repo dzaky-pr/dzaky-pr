@@ -37,6 +37,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzaky-pr&repo=github-readme-stats&theme=tokyonight" alt="dzaky-pr" /></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dzaky-pr&show_icons=true&theme=tokyonight" alt="dzaky-pr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaky-pr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dzaky-pr" /></p>
