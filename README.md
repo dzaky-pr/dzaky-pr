@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tangankedua](soon!)
 
-- 🌱 I’m currently learning **Front End Dev. and UI/UX Design System**
+- 🌱 I’m currently learning **Fullstack Web Dev.**
 
 - 👯 I’m looking to collaborate on **my start up**
 
