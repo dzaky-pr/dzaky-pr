@@ -40,5 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzaky-pr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dzaky-pr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzaky-pr&theme=tokyonight" alt="dzaky-pr" /></p>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bbc3d9d3-383e-4109-b06e-7cd5b4a99d9c/deploy-status)](https://app.netlify.com/sites/tangankedua/deploys)
