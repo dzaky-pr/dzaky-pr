@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/dzaky_rifai" target="blank"><img src="https://img.shields.io/twitter/follow/dzaky_rifai?logo=twitter&style=for-the-badge" alt="dzaky_rifai" /></a> </p>
 
 
-- 🔭 I’m currently working on [Tangankedua](soon!)
+- 🔭 I'm currently studying at SMAN 68 Jakarta
 
 - 🌱 I’m currently learning **Fullstack Web Dev.**
 
-- 👯 I’m looking to collaborate on **my start up**
+- 👯 I'm looking to collaborate **on my little ideas**
 
 - 🤝 I’m looking for help with **Back End Dev.**
 
