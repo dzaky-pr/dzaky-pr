@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Back End Dev.**
 
-- 👨‍💻 All of my projects are available at [https://dzakyrifai.vercel.app](https://dzakyrifai.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dzakyrifai.vercel.app/](https://dzakyrifai.vercel.app/)
 
 - 📝 I regularly write articles on [https://dzakyrifai.medium.com/](https://dzakyrifai.medium.com/)
 
