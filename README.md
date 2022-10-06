@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/dzaky_rifai" target="blank"><img src="https://img.shields.io/twitter/follow/dzaky_rifai?logo=twitter&style=for-the-badge" alt="dzaky_rifai" /></a> </p>
 
 
-- 🔭 I'm currently studying at [SMAN 68 Jakarta](https://sma68-jkt.sch.id/)
+- 🔭 I'm currently studying at [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/)
 
 - 🌱 I’m currently learning **Fullstack Web Dev.**
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Back End Dev.**
 
-- 👨‍💻 All of my projects are available at [https://dzakyrifai.works](https://dzakyrifai.works)
+- 👨‍💻 All of my projects are available at [https://dzakyrifai.vercel.app](https://dzakyrifai.vercel.app/)
 
 - 📝 I regularly write articles on [https://dzakyrifai.medium.com/](https://dzakyrifai.medium.com/)
 
